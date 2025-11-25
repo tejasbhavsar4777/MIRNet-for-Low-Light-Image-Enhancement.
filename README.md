@@ -1,7 +1,5 @@
 # MIRNet-for-Low-Light-Image-Enhancement.
 
-# MIRNet for Low-Light Image Enhancement
-
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.9+-red.svg)](https://pytorch.org)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -79,7 +77,7 @@ MIRNet employs a sophisticated architecture with the following key components:
 | **MIRNet (Ours)** | **Excellent** | **Superior** | **Natural** |
 
 ### Sample Comparisons:
-![Comparison Results](examples/comparison.png)
+![Comparison Results](4)
 
 ## Dataset
 
